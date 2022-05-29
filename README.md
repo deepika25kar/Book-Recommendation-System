@@ -1,4 +1,4 @@
-# Book-Recommendation-System
+# Book Recommendation System
 
 Hello, I am a sophomore student pursuing B.Tech. in Information Technology from Indira Gandhi Delhi Technical University for Women, New Delhi.
 
