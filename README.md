@@ -7,9 +7,9 @@ This is a project that I have created as a mentee in the Microsoft Engage Mentor
 It is a project depicting book recommendation system using popularity based and collaborative filtering based recommendation system. These also use sorting algorithms within themselves.
 
 The following packages are needed to be installed for execution of code:
-numpy
-panda
-flask
+* numpy
+* panda
+* flask
 
 Demo video: https://drive.google.com/file/d/14_Tz8D2PaRS9VG4xcdtimJvzBDES45_m/view?usp=sharing
 
