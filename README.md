@@ -10,6 +10,9 @@ The following packages are needed to be installed for execution of code:
 * flask
 
 
+<h5> Note: books.pkl has been uploaded as a zip file </h5>
+
+
 Demo video: https://drive.google.com/file/d/14_Tz8D2PaRS9VG4xcdtimJvzBDES45_m/view?usp=sharing
 
 
