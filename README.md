@@ -13,6 +13,9 @@ The following packages are needed to be installed for execution of code:
 <h5> Note: books.pkl has been uploaded as a zip file </h5>
 
 
+Dataset: https://drive.google.com/drive/folders/11aF4lh33F-JxQWVjVYqnSiudJfXzEaAF?usp=sharing
+
+
 Demo video: https://drive.google.com/file/d/14_Tz8D2PaRS9VG4xcdtimJvzBDES45_m/view?usp=sharing
 
 
