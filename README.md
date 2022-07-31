@@ -4,7 +4,7 @@ Hello, I am a sophomore student pursuing B.Tech. in Information Technology from 
 
 This is a project depicting a book recommendation system using popularity based and collaborative filtering based recommendation system. These also use sorting algorithms within themselves.  <br/><br/>
 
-**Introduction**<br/>
+##Introduction<br/>
 Recommendation system is a piece of code which is intelligent enough to understand the preferences of the user according to which it suggests new content. Its target is to increase profit.
 It is of four types:
 1.  Popularity based recommender system - The most popular items of the platform are recommended (Example - "Trending" section on YouTube)
@@ -12,20 +12,20 @@ It is of four types:
 3.  Collaborative Filtering based recommender system - Recommendation is done on the basis of what the user likes (ratings it has given to various items).
 4.  Hybrid recommender system - An approach that is hybrid of two or more types of the algorithms above.  <br/><br/>
 
-**Installation/Get Started** <br/>
+##Installation/Get Started <br/>
 The following packages are needed to be installed for successful execution of code:
 * numpy
 * panda
 * flask <br/><br/>
 
 
-**Features of the application** <br/>
+##Features of the application <br/>
 * Home page with display of results of popularity based recommender system
 * Search button using which user can search book names
 * Search results give results using collaborative filtering based recommender system <br/><br/>
 
 
-**Built with**
+##Built with
 * Flask (for creating website)
 * Numpy and Pandas (for peforming EDA on the dataset) <br/><br/>
 
