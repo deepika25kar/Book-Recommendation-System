@@ -4,7 +4,7 @@ Hello, I am a sophomore student pursuing B.Tech. in Information Technology from 
 
 It is a project depicting a book recommendation system using popularity based and collaborative filtering based recommendation system. These also use sorting algorithms within themselves.
 
-The following packages are needed to be installed for execution of code:
+The following packages are needed to be installed for successful execution of code:
 * numpy
 * panda
 * flask
