@@ -6,9 +6,10 @@ This is a project depicting a book recommendation system using popularity based 
 
 Recommendation system is a piece of code which is intelligent enough to understand the preferences of the user according to which it suggests new content. Its target is to increase profit.
 It is of four types:
-1.  a
-2.  b
-3.  c
+1.  Popularity based recommender system - The most popular items of the platform are recommended (Example - "Trending" section on YouTube)
+2.  Content based recommender system - Recommendation is done on the basis of similarity of items.
+3.  Collaborative Filtering based recommender system - Recommendation is done on the basis of what the user likes (ratings it has given to various items).
+4.  Hybrid recommender system - An approach that is hybrid of two or more types of the algorithms above.
 
 The following packages are needed to be installed for successful execution of code:
 * numpy
