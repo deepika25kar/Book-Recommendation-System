@@ -16,6 +16,14 @@ The following packages are needed to be installed for successful execution of co
 * panda
 * flask
 
+Features of the application
+* Home page with display of results of popularity based recommender system
+* Search button using which user can search book names
+* Search results give results using collaborative filtering based recommender system
+
+Built with
+* Flask (for creating website)
+* Numpy and Pandas (for peforming EDA on the dataset)
 
 <h5> Note: books.pkl has been uploaded as a zip file </h5>
 
