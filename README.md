@@ -27,7 +27,7 @@ The following packages are needed to be installed for successful execution of co
 
 ## Built with
 * Flask (for creating website)
-* Numpy and Pandas (for peforming EDA on the dataset) <br/><br/>
+* Numpy and Pandas (for performing EDA on the dataset) <br/><br/><br/><br/>
 
 
 <h5> Note: books.pkl has been uploaded as a zip file </h5>
