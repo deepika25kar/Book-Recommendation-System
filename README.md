@@ -27,16 +27,17 @@ The following packages are needed to be installed for successful execution of co
 
 ## Built with
 * Flask (for creating website)
-* Numpy and Pandas (for performing EDA on the dataset) <br/><br/><br/><br/>
+* Numpy and Pandas (for performing EDA on the dataset and developing the ML models)
+* sklearn also imported to use cosine_similarity for collaborative filtering based recommendation system <br/><br/><br/><br/>
 
 
 <h5> Note: books.pkl has been uploaded as a zip file </h5>
 
 
-Dataset: https://drive.google.com/drive/folders/11aF4lh33F-JxQWVjVYqnSiudJfXzEaAF?usp=sharing
-
+Dataset: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
 Demo video: https://drive.google.com/file/d/14_Tz8D2PaRS9VG4xcdtimJvzBDES45_m/view?usp=sharing
 
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/deepika-kar-15b116215/
+Email-ID: deepikakar25@outlook.com
