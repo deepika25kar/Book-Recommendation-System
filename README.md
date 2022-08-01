@@ -1,6 +1,6 @@
 # Book Recommendation System
 
-Hello, I am a sophomore student pursuing B.Tech. in Information Technology from Indira Gandhi Delhi Technical University for Women, New Delhi.
+Hello, I am a pre-final year student pursuing B.Tech. in Information Technology from Indira Gandhi Delhi Technical University for Women, New Delhi.
 
 This is a project depicting a book recommendation system using popularity based and collaborative filtering based recommendation system. These also use sorting algorithms within themselves.  <br/><br/>
 
@@ -22,7 +22,7 @@ The following packages are needed to be installed for successful execution of co
 ## Features of the application <br/>
 * Home page with display of results of popularity based recommender system
 * Search button using which user can search book names
-* Search results give results using collaborative filtering based recommender system <br/><br/>
+* Search results give recommendation results using collaborative filtering based recommender system <br/><br/>
 
 
 ## Built with
