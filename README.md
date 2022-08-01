@@ -39,5 +39,5 @@ Dataset: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 Demo video: https://drive.google.com/file/d/14_Tz8D2PaRS9VG4xcdtimJvzBDES45_m/view?usp=sharing
 
 
-Connect with me on LinkedIn: https://www.linkedin.com/in/deepika-kar-15b116215/
+Connect with me on LinkedIn: https://www.linkedin.com/in/deepika-kar-15b116215/ <br/>
 Email-ID: deepikakar25@outlook.com
