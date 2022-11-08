@@ -1,7 +1,5 @@
 # Book Recommendation System
 
-Hello, I am a pre-final year student pursuing B.Tech. in Information Technology from Indira Gandhi Delhi Technical University for Women, New Delhi.
-
 This is a project depicting a book recommendation system using popularity based and collaborative filtering based recommendation system. These also use sorting algorithms within themselves.  <br/><br/>
 
 ## Introduction<br/>
